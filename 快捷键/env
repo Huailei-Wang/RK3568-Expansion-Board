@@ -1,0 +1,49 @@
+source $TELENV
+
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+set padpath = $padpath D:\Desktop\BUCK\PCB_lib
+set psmpath = $psmpath D:\Desktop\BUCK\PCB_lib
+set autosave_time = 10
+set autosave_dbcheck
+set autosave
+set allegro_dynam_timing = on
+unset allegro_dynam_timing_fixedpos
+set showmeasure_altunits millimeters
+
+
+funckey Del delete
+
+funckey a slide
+funckey b unrats net
+funckey c change
+funckey d shape select
+funckey e status
+funckey f Delay Tune
+funckey g  define grid
+funckey h hilight
+funckey i place manual
+funckey j dehilight
+funckey k swap components
+funckey l mirror
+funckey m move
+funckey n show element
+funckey o zoom out
+funckey p show measure
+funckey q done
+funckey r angle 90
+funckey s shape add
+funckey t text edit
+funckey u Assign Color
+funckey v rats net
+funckey w add connect
+funckey y Color192
+funckey z Shape Void Rectangle
+
+
+
+
+
