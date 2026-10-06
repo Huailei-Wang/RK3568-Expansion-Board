@@ -1,0 +1,11 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v17-2-51 made 2020/07/07 at 11:25:37
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : E:\desktop\Cadence_study\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : E:\desktop\Cadence_study\RK3568\SCH\monitor.sts
+select_product  Allegro PCB Design GXL (legacy)

@@ -1,0 +1,12 @@
+# Cadence temporary and generated files
+PCB/AUTOSAVE.brd
+PCB/*.jrl
+PCB/*.jrl,1
+PCB/quickplace.log
+PCB/master.tag
+PCB/signoise.run/
+SCH/*.DBK
+
+# Common backup files
+*.bak
+*.backup
