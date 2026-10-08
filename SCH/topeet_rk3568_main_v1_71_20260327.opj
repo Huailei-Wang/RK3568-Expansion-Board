@@ -19,29 +19,64 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\topeet_rk3568_main_v1_71_20260327.dsn")
       (Path "Design Resources" ".\topeet_rk3568_main_v1_71_20260327.dsn"
-         "RK3568_AIoT_REF_SCH"))
+         "RK3568_AIoT_REF_SCH")
+      (Select "Design Resources" ".\topeet_rk3568_main_v1_71_20260327.dsn"
+         "RK3568_AIoT_REF_SCH" "04.HDMI2.0 TX"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 300 0 317"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 246 0 642"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1385 78 497")
-        (Scroll "-45 20")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1076 104 519")
+        (Scroll "-49 0")
+        (Zoom "50")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
       (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "01.Revision History"))
+      (Page "10.SATA3.0/Audio"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1456 104 661")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1106 130 549")
+        (Scroll "-67 0")
+        (Zoom "48")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "08.Ethernet-GEPHY_RGMII0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1132 156 575")
+        (Scroll "-67 0")
+        (Zoom "48")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "05.MIPI_DSI/LVDS/WIFI/TF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1158 182 601")
+        (Scroll "0 501")
+        (Zoom "68")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "03.USB2/USB3 Port/MIPI CSI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 976 0 419")
+        (Scroll "0 590")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -51,44 +86,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1482 130 687")
-        (Scroll "0 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1080 104 523")
+        (Scroll "640 274")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
       (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "03.USB2/USB3 Port/MIPI CSI"))
+      (Page "07.VO-VGA Output(eDP To VGA)"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1202 156 575")
-        (Scroll "0 356")
-        (Zoom "96")
+        (Placement "44 2 3 -1 -1 -8 -31 130 1045 130 549")
+        (Scroll "0 555")
+        (Zoom "136")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
       (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "08.Ethernet-GEPHY_RGMII0"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1046 0 419")
-        (Scroll "2015 782")
-        (Zoom "192")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "09.Ethernet-GEPHY_RGMII1_M1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1540 234 791")
-        (Scroll "463 735")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "18.EXP_IO/Hole"))))
+      (Page "04.HDMI2.0 TX"))))
