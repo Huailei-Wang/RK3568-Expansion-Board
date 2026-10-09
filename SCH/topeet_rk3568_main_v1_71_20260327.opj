@@ -9,8 +9,54 @@
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
-    (NoModify))
-  (Folder "Outputs")
+    (NoModify)
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "E:\desktop\Cadence_study\RK3568\SCH\allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "E:\desktop\Cadence_study\RK3568\PCB\topeet_rk3568_main_v1_71_20260327_update.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "NEVER_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Netlist Input Board File"
+       "E:\desktop\Cadence_study\RK3568\PCB\topeet_rk3568_main_v1_71_20260327.brd"))
+  (Folder "Outputs"
+    (File "e:\desktop\cadence_study\buck\sch\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "e:\desktop\cadence_study\buck\sch\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "e:\desktop\cadence_study\buck\sch\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector)
   (MPSSessionName "27459")
@@ -22,6 +68,7 @@
       (Path "Design Resources"
          "e:\desktop\cadence_study\rk3568\sch\topeet_rk3568_main_v1_71_20260327.dsn"
          "RK3568_AIoT_REF_SCH")
+      (Path "Outputs")
       (Select "Design Resources"
          "e:\desktop\cadence_study\rk3568\sch\topeet_rk3568_main_v1_71_20260327.dsn"
          "RK3568_AIoT_REF_SCH" "03.USB2/USB3 Port/MIPI CSI"))
@@ -29,14 +76,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 393 0 858"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 346 0 858"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1109 104 523")
-        (Scroll "2142 1694")
-        (Zoom "200")
+        (Scroll "224 1930")
+        (Zoom "264")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
@@ -79,8 +126,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 1005 0 419")
-        (Scroll "-136 0")
-        (Zoom "50")
+        (Scroll "501 2018")
+        (Zoom "188")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
@@ -145,7 +192,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1114 26 583")
-        (Scroll "0 390")
+        (Scroll "832 788")
         (Zoom "200")
         (Occurrence "/"))
       (Path
@@ -184,4 +231,16 @@
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
       (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "08.Ethernet-GEPHY_RGMII0"))))
+      (Page "08.Ethernet-GEPHY_RGMII0"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1251 130 687")
+        (Scroll "170 1284")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "10.SATA3.0/Audio")))
+  (ISPCBBASICLICENSE "false"))
