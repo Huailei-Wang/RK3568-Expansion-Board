@@ -5,7 +5,11 @@ PCB/*.jrl,1
 PCB/quickplace.log
 PCB/master.tag
 PCB/signoise.run/
+PCB/signoise.log
+PCB/devices.dml
+PCB/*.lck
 SCH/*.DBK
+SCH/*.DSNlck
 
 # Common backup files
 *.bak
