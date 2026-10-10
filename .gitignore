@@ -10,6 +10,14 @@ PCB/devices.dml
 PCB/*.lck
 SCH/*.DBK
 SCH/*.DSNlck
+SCH/allegro/
+SCH/devices.dml
+SCH/netlist.log
+SCH/pstchip.dat
+SCH/pstxnet.dat
+SCH/pstxprt.dat
+SCH/pxlBA.txt
+SCH/signoise.run/
 
 # Common backup files
 *.bak
