@@ -4,13 +4,19 @@
 
 ## 当前更新
 
-更新时间：2026-10-10
+更新时间：2026-10-11
+
+- 基本完成所有外设的内部走线。
+- 完成大约两排连接座与外设之间的走线。
+- PCB 保存名称修改为 `topeet_rk3568_main_v1_71_20261011_update.brd`。
+
+## 历史更新
+
+### 2026-10-10
 
 - 布局大概完成 3/4。
 - 即将完成外设布局布线。
-- 当前 PCB 文件：`PCB/topeet_rk3568_main_v1_71_20260327_update.brd`。
-
-## 历史更新
+- 本阶段 PCB 文件：`PCB/topeet_rk3568_main_v1_71_20260327_update.brd`。
 
 ### 2026-10-10（此前阶段）
 
@@ -44,14 +50,14 @@
 
 - `PCB/`：Cadence Allegro PCB 工程文件。
 - `SCH/`：Cadence Capture 原理图工程文件。
-- `mdd_create/`：RGMII 模块文件 `rgmii.mdd`。
+- `mdd_create/`：RGMII 模块文件 `rgmii.mdd` 和 USB2.0 模块文件 `usb2.0.mdd`。
 - `相关文档/`：RK3568 官方资料、硬件设计指南、核心板原理图及布线参考文档。
 - `快捷键/`：Cadence Allegro 快捷键配置 `env` 和快捷键说明表格。
 
 ## 设计文件
 
-- [当前布线进度 PCB](PCB/topeet_rk3568_main_v1_71_20260327_update.brd)：布局大概完成 3/4，即将完成外设布局布线的当前版本。
-- [此前 PCB 文件](PCB/topeet_rk3568_main_v1_71_20260327.brd)：保留的此前版本，当前布线进度以 `_update.brd` 为准。
+- [当前布线进度 PCB](PCB/topeet_rk3568_main_v1_71_20261011_update.brd)：基本完成所有外设内部走线，以及大约两排连接座与外设之间走线的当前版本。
+- [此前 PCB 版本](https://github.com/Huailei-Wang/RK3568-Expansion-Board/tree/7dc4e7a48b77ddf1c9cd76fecad46bc8621676ae/PCB)：旧文件已从当前目录移除，可从 Git 历史中获取。
 - [原理图](SCH/TOPEET_RK3568_MAIN_V1_71_20260327.DSN)：Cadence Capture 原理图设计文件。
 - [Capture 工程](SCH/topeet_rk3568_main_v1_71_20260327.opj)：原理图工程及网表更新配置。
 

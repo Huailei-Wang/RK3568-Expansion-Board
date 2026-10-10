@@ -70,130 +70,30 @@
          "RK3568_AIoT_REF_SCH")
       (Path "Outputs")
       (Select "Design Resources"
-         "e:\desktop\cadence_study\rk3568\sch\topeet_rk3568_main_v1_71_20260327.dsn"
-         "RK3568_AIoT_REF_SCH" "03.USB2/USB3 Port/MIPI CSI"))
+         "e:\desktop\cadence_study\rk3568\sch\topeet_rk3568_main_v1_71_20260327.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 346 0 858"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 858"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1109 104 523")
-        (Scroll "224 1930")
-        (Zoom "264")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "02.Power_DC IN/RTC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1135 130 549")
-        (Scroll "0 0")
-        (Zoom "66")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "11.PCIE2.0"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1161 156 575")
-        (Scroll "2142 544")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "13.5G MODULE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1187 182 601")
-        (Scroll "1364 3052")
-        (Zoom "384")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "05.MIPI_DSI/LVDS/WIFI/TF"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1005 0 419")
-        (Scroll "501 2018")
-        (Zoom "188")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "03.USB2/USB3 Port/MIPI CSI"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1031 26 445")
-        (Scroll "1876 42")
-        (Zoom "136")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "12.PCIE-PCIE3.0_1x2Lanes_RC_64P"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1057 52 471")
-        (Scroll "0 600")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "17.UART/RS485/CAN Port"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 944 78 497")
-        (Scroll "0 117")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "06.LCM_eDP TX"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 260 1477 260 817")
+        (Placement "44 0 1 -1 -1 -8 -31 182 1399 182 739")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
       (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "16.LED/HW_ID/BOM_ID"))
+      (Page "04.HDMI2.0 TX"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1227 0 557")
-        (Scroll "-5 0")
+        (Placement "44 0 1 -1 -1 -8 -31 208 1425 208 765")
+        (Scroll "618 415")
         (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "15.KEY Array/SARADC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1114 26 583")
-        (Scroll "832 788")
-        (Zoom "200")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
@@ -202,8 +102,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1140 52 609")
-        (Scroll "2200 1714")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1451 234 791")
+        (Scroll "312 464")
         (Zoom "200")
         (Occurrence "/"))
       (Path
@@ -213,31 +113,97 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1282 78 635")
-        (Scroll "-32 0")
-        (Zoom "66")
-        (Occurrence "/"))
-      (Path
-         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
-      (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "09.Ethernet-GEPHY_RGMII1_M1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1308 104 661")
-        (Scroll "0 32")
+        (Placement "44 0 1 -1 -1 -8 -31 260 1477 260 817")
+        (Scroll "0 153")
         (Zoom "132")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
       (Schematic "RK3568_AIoT_REF_SCH")
-      (Page "08.Ethernet-GEPHY_RGMII0"))
+      (Page "05.MIPI_DSI/LVDS/WIFI/TF"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1251 130 687")
-        (Scroll "170 1284")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1217 0 557")
+        (Scroll "2788 2157")
+        (Zoom "264")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "02.Power_DC IN/RTC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1093 182 601")
+        (Scroll "840 1288")
+        (Zoom "188")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "03.USB2/USB3 Port/MIPI CSI"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 911 0 419")
+        (Scroll "1348 1646")
         (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "17.UART/RS485/CAN Port"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 884 26 445")
+        (Scroll "2225 614")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "13.5G MODULE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 910 52 471")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "07.VO-VGA Output(eDP To VGA)"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 936 78 497")
+        (Scroll "-207 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "06.LCM_eDP TX"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
+        (Scroll "321 41")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "15.KEY Array/SARADC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 136 0 39")
+        (Scroll "92 183")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "E:\DESKTOP\CADENCE_STUDY\RK3568\SCH\TOPEET_RK3568_MAIN_V1_71_20260327.DSN")
